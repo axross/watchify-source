@@ -1,0 +1,26 @@
+{
+  "name": "watchify-source",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axross/watchify-source.git"
+  },
+  "author": "axross <me@axross.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axross/watchify-source/issues"
+  },
+  "homepage": "https://github.com/axross/watchify-source#readme",
+  "dependencies": {
+    "browserify": "13.0.0",
+    "circular-json": "0.3.0",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0",
+    "watchify": "3.7.0"
+  }
+}
